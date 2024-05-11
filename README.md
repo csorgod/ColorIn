@@ -13,18 +13,18 @@ O daltonismo, também conhecido como deficiência de visão de cores, é comumen
 <br>
 Existem diferentes tipos de daltonismo:
 
-* Protanopia (Daltonismo Vermelho-Verde):
+* Protanopia (Daltonismo Vermelho):
 
-    Pessoas com protanopia têm dificuldade em distinguir vermelho e verde.
+    Pessoas com protanopia têm dificuldade em distinguir tons de vermelho.
     Aproximadamente 1 em cada 12 homens e 1 em cada 200 mulheres são afetados.
 
-* Deuteranopia (Daltonismo Verde-Vermelho):
+* Deuteranopia (Daltonismo Verde):
 
-    Semelhante à protanopia, mas com dificuldade em distinguir verde e vermelho. Aproximadamente 1 em cada 25 homens e 1 em cada 200 mulheres são afetados.
+    Semelhante à protanopia, mas com dificuldade em distinguir tons de verde. Aproximadamente 1 em cada 25 homens e 1 em cada 200 mulheres são afetados.
 
-* Tritanopia (Daltonismo Azul-Amarelo):
+* Tritanopia (Daltonismo Azul):
 
-    Rara condição que dificulta a distinção entre azul e amarelo. Afeta cerca de 1 em cada 10.000 pessoas.
+    O tipo mais raro de todos. Essa condição dificulta a distinção entre azul e amarelo. Afeta cerca de 1 em cada 10.000 pessoas.
 
 ## 💻 Tecnologia: Transcrição de Cores com Google Gemini
 
