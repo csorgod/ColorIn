@@ -26,6 +26,11 @@ Existem diferentes tipos de daltonismo:
 
     O tipo mais raro de todos. Essa condição dificulta a distinção entre azul e amarelo. Afeta cerca de 1 em cada 10.000 pessoas.
 
+* acromatopsia (Cegueira total à cores):
+
+    É a forma mais rara de daltonismo afetando menos de 0,01% da população. Nesta variação, o portador não enxerga cores.
+
+
 ## 💻 Tecnologia: Transcrição de Cores com Google Gemini
 
 Nosso projeto utiliza a API Google Gemini, uma ferramenta de IA Generativa que pode analisar imagens e extrair descrições de cores. Ao incorporar o mecanismo de Gemini, podemos:
