@@ -41,6 +41,10 @@ Nosso projeto utiliza a API Google Gemini, uma ferramenta de IA Generativa que p
 
 * Transcrever as cores nas descrições acessíveis, levando em consideração o tipo de daltonismo.
 
+
+> [!WARNING]  
+> Esse projeto foi criado para executar em um notebook do **Google Colab**. Recomendamos fortemente que você utilize essa plataforma para executar o código. Alguns ajustes pequenos podem ser necessários se utilizado através do Jupyter Notebook, AWS SageMaker, VS Code e similares. 
+
 ## 🤝 Impacto Social: Empoderando Indivíduos Daltônicos
 
 Ao capacitar os daltônicos com informações precisas sobre cores, nosso projeto promove:
